@@ -15,7 +15,7 @@ public class tip {   public static void main(String[] args) {
     tip = (meal_cost /100) * (tip_percent);
     tax = (meal_cost/100 ) * (tax_percent);
     total_cost = (meal_cost + tip + tax);
-    System.out.println(total_cost);
+    System.out.println(total_cost);//DFGEFEW
 }
 }
 
